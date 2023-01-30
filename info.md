@@ -1,6 +1,10 @@
 # Timetable
+[RAS website: Harvesting spectroscopic and time series data with machine learning and artificial intelligence](https://ras.ac.uk/events-and-meetings/ras-meetings/harvesting-spectroscopic-and-time-series-data-machine-learning-and)
+
 Invited Talk: **30 minutes** including Q&A
+
 Long Talk: **15 minutes** including Q&A
+
 Short Talk: **5 minutes** including Q&A
 
 ## Morning Session
