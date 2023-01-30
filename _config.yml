@@ -2,5 +2,4 @@ remote_theme: pages-themes/hacker@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 title: Machine Learning to 1D Astronomical Dataset
-description: Practical details of the RAS specialist discussion meeting on Friday 10 MARCH 2023. 
-[RAS website: Harvesting spectroscopic and time series data with machine learning and artificial intelligence](https://ras.ac.uk/events-and-meetings/ras-meetings/harvesting-spectroscopic-and-time-series-data-machine-learning-and)
+description: Practical details of the RAS specialist discussion meeting on Friday 10 MARCH 2023. [RAS website: Harvesting spectroscopic and time series data with machine learning and artificial intelligence](https://ras.ac.uk/events-and-meetings/ras-meetings/harvesting-spectroscopic-and-time-series-data-machine-learning-and)
