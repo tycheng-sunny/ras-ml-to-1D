@@ -1,6 +1,6 @@
 # Event Information
 
-- Hashtag: #AstroML1D
+- Hashtag: `#AstroML1D`
 - Date/Time: 10:30-15:30 Friday 10 March 2023
 - Format: Hybrid. Please join our slack channel for further discussion (slack link will be released on 10 Feb).
 - Venue: Burlington House, LONDON 
