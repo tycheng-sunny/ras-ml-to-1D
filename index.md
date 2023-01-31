@@ -13,13 +13,13 @@ Long Talk: **15 minutes** including Q&A\
 Short Talk: **5 minutes** including Q&A
 
 ### Morning Session
-- 10:35 -- 11:05 &nbsp;&nbsp;Invited Talk &nbsp;[Yuan-Sen Ting](https://www.mso.anu.edu.au/~yting/) -- Australian National University
-- 11:05 -- 11:20 &nbsp;&nbsp;Long Talk &nbsp;&nbsp;&nbsp;&nbsp;Parth Nayak -- LMU Munich
-- 11:20 -- 11:35 &nbsp;&nbsp;Long Talk &nbsp;&nbsp;&nbsp;&nbsp;Alessia Longobardi -- Università Milano-Bicocca
-- 11:35 -- 11:50 &nbsp;&nbsp;Long Talk &nbsp;&nbsp;&nbsp;&nbsp;Ming-Feng Ho -- University of California, Riverside
-- 11:50 -- 12:05 &nbsp;&nbsp;Long Talk &nbsp;&nbsp;&nbsp;&nbsp;Sinan Deger -- Stockholm University
-- 12:05 -- 12:20 &nbsp;&nbsp;Long Talk &nbsp;&nbsp;&nbsp;&nbsp;Andrew Saydjari -- Harvard CFA
-- 12:20 -- 12:35 &nbsp;&nbsp;Long Talk &nbsp;&nbsp;&nbsp;&nbsp;William Davison -- Korea Astronomy and Space Science Institute
+- 10:35 -- 11:05 &nbsp;&nbsp;Invited Talk &nbsp;[Yuan-Sen Ting](https://www.mso.anu.edu.au/~yting/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Australian National University
+- 11:05 -- 11:20 &nbsp;&nbsp;Long Talk &nbsp;&nbsp;&nbsp;&nbsp;Parth Nayak &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;LMU Munich
+- 11:20 -- 11:35 &nbsp;&nbsp;Long Talk &nbsp;&nbsp;&nbsp;&nbsp;Alessia Longobardi &nbsp;Università Milano-Bicocca
+- 11:35 -- 11:50 &nbsp;&nbsp;Long Talk &nbsp;&nbsp;&nbsp;&nbsp;Ming-Feng Ho &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;University of California, Riverside
+- 11:50 -- 12:05 &nbsp;&nbsp;Long Talk &nbsp;&nbsp;&nbsp;&nbsp;Sinan Deger &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Stockholm University
+- 12:05 -- 12:20 &nbsp;&nbsp;Long Talk &nbsp;&nbsp;&nbsp;&nbsp;Andrew Saydjari &nbsp;&nbsp;&nbsp;&nbsp;Harvard CFA
+- 12:20 -- 12:35 &nbsp;&nbsp;Long Talk &nbsp;&nbsp;&nbsp;&nbsp;William Davison &nbsp;&nbsp;&nbsp;&nbsp;Korea Astronomy and Space Science Institute
 
 ### Afternoon Session
 - 13:30 -- 14:00 &nbsp;&nbsp;Invited Talk &nbsp;[Emille Ishida](https://www.emilleishida.com) -- Laboratoire de Physique de Clermont
