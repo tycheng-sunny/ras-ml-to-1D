@@ -3,11 +3,11 @@ RAS website:
 [Harvesting spectroscopic and time series data with machine learning and artificial intelligence](https://ras.ac.uk/events-and-meetings/ras-meetings/harvesting-spectroscopic-and-time-series-data-machine-learning-and)
 
 # Timetable
+```
 Invited Talk: **30 minutes** including Q&A
-
 Long Talk: **15 minutes** including Q&A
-
 Short Talk: **5 minutes** including Q&A
+```
 
 ## Morning Session
 - 10:35 -- 11:05: Invited Talk/ Yuan-Sen Ting
