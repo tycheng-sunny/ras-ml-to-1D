@@ -31,7 +31,7 @@ Short Talk: **5 minutes** including Q&A
 - 14:35 -- 14:40 &nbsp;&nbsp;Short Talk &nbsp;&nbsp;&nbsp;Joseph Mwatukange &nbsp;&nbsp;&nbsp;University of Manchester, UK
 - 14:40 -- 14:45 &nbsp;&nbsp;Short Talk &nbsp;&nbsp;&nbsp;Guillaume Guiglion &nbsp;&nbsp;Max-Planck-Institut für Astronomie, Germany
 - 14:45 -- 15:00 &nbsp;&nbsp;Long Talk &nbsp;&nbsp;&nbsp;&nbsp;Yan Yan &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Chinese Academy of Sciences, China
-- 15:00 -- 15:05 &nbsp;&nbsp;Short Talk &nbsp;&nbsp;&nbsp;Mikhail Denissenya &nbsp;&nbsp;Nazarbayev University
+- 15:00 -- 15:05 &nbsp;&nbsp;Short Talk &nbsp;&nbsp;&nbsp;Mikhail Denissenya &nbsp;&nbsp;Nazarbayev University, Kazakhstan
 - 15:05 -- 15:10 &nbsp;&nbsp;Short Talk &nbsp;&nbsp;&nbsp;Ignacio Ferreras &nbsp;&nbsp;&nbsp;&nbsp;UCL, UK & IAC, Spain
 - 15:10 -- 15:25 &nbsp;&nbsp;Long Talk &nbsp;&nbsp;&nbsp;&nbsp;Collin Politsch &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;University of Cambridge, UK
 - 15:25 -- 15:30 &nbsp;&nbsp;Summary
