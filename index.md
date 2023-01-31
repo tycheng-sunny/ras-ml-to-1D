@@ -2,7 +2,7 @@
 
 - Date/Time: 10:30-15:30 Friday 10 March 2023
 - Format: Hybrid. Please join our [slack channel]() for further discussion.
-- Venue: The Royal Astronomical Society, Burlington House, LONDON 
+- Venue: Burlington House, LONDON 
 - [RAS Event Website](https://ras.ac.uk/events-and-meetings/ras-meetings/harvesting-spectroscopic-and-time-series-data-machine-learning-and)
 - [Registration on Eventbrite]()
 
