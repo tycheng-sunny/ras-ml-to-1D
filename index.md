@@ -14,17 +14,17 @@ Short Talk: **5 minutes** including Q&A
 
 ### Morning Session
 - 10:35 -- 11:05: Invited Talk/ [Yuan-Sen Ting](https://www.mso.anu.edu.au/~yting/) (ANU, Australia)
-- 11:05 -- 11:20: Long Talk/ Parth Nayak (LMU Munich, Germany)
-- 11:20 -- 11:35: Long Talk/ Alessia Longobardi (Università Milano-Bicocca, Milan)
-- 11:35 -- 11:50: Long Talk/ Ming-Feng Ho (University of California, Riverside, USA)
-- 11:50 -- 12:05: Long Talk/ Sinan Deger (Stockholm University, Sweden)
-- 12:05 -- 12:20: Long Talk/ Andrew Saydjari (Harvard CFA, USA)
-- 12:20 -- 12:35: Long Talk/ William Davison (Korea Astronomy and Space Science Institute, Korea)
+- 11:05 -- 11:20: Long Talk/ &emsp;Parth Nayak (LMU Munich, Germany)
+- 11:20 -- 11:35: Long Talk/ &emsp;Alessia Longobardi (Università Milano-Bicocca, Milan)
+- 11:35 -- 11:50: Long Talk/ &emsp;Ming-Feng Ho (University of California, Riverside, USA)
+- 11:50 -- 12:05: Long Talk/ &emsp;Sinan Deger (Stockholm University, Sweden)
+- 12:05 -- 12:20: Long Talk/ &emsp;Andrew Saydjari (Harvard CFA, USA)
+- 12:20 -- 12:35: Long Talk/ &emsp;William Davison (Korea Astronomy and Space Science Institute, Korea)
 
 ### Afternoon Session
-- 13:30 -- 14:00: Invited Talk/ [Emile Ishida](https://www.emilleishida.com)
-- 14:00 -- 14:05: Short Talk/ Matthew Grayling
-- 14:05 -- 14:10: Short Talk/ Robbie Webbe
+- 13:30 -- 14:00: Invited Talk/ [Emille Ishida](https://www.emilleishida.com) (Laboratoire de Physique de Clermont, France)
+- 14:00 -- 14:05: Short Talk/ Matthew Grayling (University of Cambridge, UK)
+- 14:05 -- 14:10: Short Talk/ Robbie Webbe ()
 - 14:10 -- 14:15: Short Talk/ Becky Canning
 - 14:15 -- 14:30: Long Talk/ Daniel Mata Sanchez
 - 14:30 -- 14:35: Short Talk/ John F.Suárez-Pérez
