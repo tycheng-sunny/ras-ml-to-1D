@@ -13,13 +13,13 @@ Long Talk: **15 minutes** including Q&A\
 Short Talk: **5 minutes** including Q&A
 
 ### Morning Session
-- 10:35 -- 11:05: Invited Talk/ [Yuan-Sen Ting](https://www.mso.anu.edu.au/~yting/) (ANU, Australia)
-- 11:05 -- 11:20: Long Talk/ &nbsp;&nbsp;&nbsp;Parth Nayak (LMU Munich, Germany
-- 11:20 -- 11:35: Long Talk/ &nbsp;&nbsp;&nbsp;Alessia Longobardi (Università Milano-Bicocca, Milan)
-- 11:35 -- 11:50: Long Talk/ &nbsp;&nbsp;&nbsp;Ming-Feng Ho (University of California, Riverside, USA)
-- 11:50 -- 12:05: Long Talk/ &nbsp;&nbsp;&nbsp;Sinan Deger (Stockholm University, Sweden)
-- 12:05 -- 12:20: Long Talk/ &nbsp;&nbsp;&nbsp;Andrew Saydjari (Harvard CFA, USA)
-- 12:20 -- 12:35: Long Talk/ &nbsp;&nbsp;&nbsp;William Davison (Korea Astronomy and Space Science Institute, Korea)
+- 10:35 -- 11:05: Invited Talk/ [Yuan-Sen Ting](https://www.mso.anu.edu.au/~yting/) &nbsp;&nbsp;(ANU, Australia)
+- 11:05 -- 11:20: Long Talk/ &nbsp;&nbsp;&nbsp;Parth Nayak &nbsp;&nbsp;(LMU Munich, Germany)
+- 11:20 -- 11:35: Long Talk/ &nbsp;&nbsp;&nbsp;Alessia Longobardi &nbsp;&nbsp;(Università Milano-Bicocca, Milan)
+- 11:35 -- 11:50: Long Talk/ &nbsp;&nbsp;&nbsp;Ming-Feng Ho &nbsp;&nbsp;(University of California, Riverside, USA)
+- 11:50 -- 12:05: Long Talk/ &nbsp;&nbsp;&nbsp;Sinan Deger &nbsp;&nbsp;(Stockholm University, Sweden)
+- 12:05 -- 12:20: Long Talk/ &nbsp;&nbsp;&nbsp;Andrew Saydjari &nbsp;&nbsp;(Harvard CFA, USA)
+- 12:20 -- 12:35: Long Talk/ &nbsp;&nbsp;&nbsp;William Davison &nbsp;&nbsp;(Korea Astronomy and Space Science Institute, Korea)
 
 ### Afternoon Session
 - 13:30 -- 14:00: Invited Talk/ [Emille Ishida](https://www.emilleishida.com) (Laboratoire de Physique de Clermont, France)
