@@ -1,15 +1,15 @@
-RAS website: 
+# Event Websites
 
-[Harvesting spectroscopic and time series data with machine learning and artificial intelligence](https://ras.ac.uk/events-and-meetings/ras-meetings/harvesting-spectroscopic-and-time-series-data-machine-learning-and)
+- [RAS: Harvesting spectroscopic and time series data with machine learning and artificial intelligence](https://ras.ac.uk/events-and-meetings/ras-meetings/harvesting-spectroscopic-and-time-series-data-machine-learning-and)
+- [Registration on Eventbrite]()
 
 # Timetable
-```
-Invited Talk: **30 minutes** including Q&A
-Long Talk: **15 minutes** including Q&A
-Short Talk: **5 minutes** including Q&A
-```
 
-## Morning Session
+☑︎ Invited Talk: **30 minutes** including Q&A\
+☑︎ Long Talk: **15 minutes** including Q&A\
+☑︎ Short Talk: **5 minutes** including Q&A
+
+### Morning Session
 - 10:35 -- 11:05: Invited Talk/ Yuan-Sen Ting
 - 11:05 -- 11:20: Long Talk/ Parth Nayak
 - 11:20 -- 11:35: Long Talk/ Alessia Longobardi
@@ -18,7 +18,7 @@ Short Talk: **5 minutes** including Q&A
 - 12:05 -- 12:20: Long Talk/ Andrew Saydjari
 - 12:20 -- 12:35: Long Talk/ William Davison
 
-## Afternoon Session
+### Afternoon Session
 - 13:30 -- 14:00: Invited Talk/ Emile Ishida
 - 14:00 -- 14:05: Short Talk/ Matthew Grayling
 - 14:05 -- 14:10: Short Talk/ Robbie Webbe
