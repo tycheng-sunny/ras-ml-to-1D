@@ -23,15 +23,15 @@ Short Talk: **5 minutes** including Q&A
 
 ### Afternoon Session
 - 13:30 -- 14:00: Invited Talk/ [Emille Ishida](https://www.emilleishida.com) (Laboratoire de Physique de Clermont, France)
-- 14:00 -- 14:05: Short Talk/ Matthew Grayling (University of Cambridge, UK)
-- 14:05 -- 14:10: Short Talk/ Robbie Webbe ()
-- 14:10 -- 14:15: Short Talk/ Becky Canning
-- 14:15 -- 14:30: Long Talk/ Daniel Mata Sanchez
-- 14:30 -- 14:35: Short Talk/ John F.Suárez-Pérez
-- 14:35 -- 14:40: Short Talk/ Joseph Mwatukange
-- 14:40 -- 14:45: Short Talk/ Guillaume Guiglion
-- 14:45 -- 15:00: Long Talk/ Yan Yan
-- 15:00 -- 15:05: Short Talk/ Mikhail Denissenya
-- 15:05 -- 15:10: Short Talk/ Ignacio Ferreras
-- 15:10 -- 15:25: Long Talk/ Collin Politsch
+- 14:00 -- 14:05: Short Talk/ &nbsp;&nbsp;Matthew Grayling (University of Cambridge, UK)
+- 14:05 -- 14:10: Short Talk/ &nbsp;&nbsp;Robbie Webbe ()
+- 14:10 -- 14:15: Short Talk/ &nbsp;&nbsp;Becky Canning
+- 14:15 -- 14:30: Long Talk/ &nbsp;&nbsp;&nbsp;Daniel Mata Sanchez
+- 14:30 -- 14:35: Short Talk/ &nbsp;&nbsp;John F.Suárez-Pérez
+- 14:35 -- 14:40: Short Talk/ &nbsp;&nbsp;Joseph Mwatukange
+- 14:40 -- 14:45: Short Talk/ &nbsp;&nbsp;Guillaume Guiglion
+- 14:45 -- 15:00: Long Talk/ &nbsp;&nbsp;&nbsp;Yan Yan
+- 15:00 -- 15:05: Short Talk/ &nbsp;&nbsp;Mikhail Denissenya
+- 15:05 -- 15:10: Short Talk/ &nbsp;&nbsp;Ignacio Ferreras
+- 15:10 -- 15:25: Long Talk/ &nbsp;&nbsp;&nbsp;Collin Politsch
 - 15:25 -- 15:30: Summary
