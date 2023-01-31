@@ -13,25 +13,25 @@ Long Talk: **15 minutes** including Q&A\
 Short Talk: **5 minutes** including Q&A
 
 ### Morning Session
-- 10:35 -- 11:05 &nbsp;&nbsp;Invited Talk &nbsp;[Yuan-Sen Ting](https://www.mso.anu.edu.au/~yting/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Australian National University
-- 11:05 -- 11:20 &nbsp;&nbsp;Long Talk &nbsp;&nbsp;&nbsp;&nbsp;Parth Nayak &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;LMU Munich
-- 11:20 -- 11:35 &nbsp;&nbsp;Long Talk &nbsp;&nbsp;&nbsp;&nbsp;Alessia Longobardi &nbsp;Università Milano-Bicocca
-- 11:35 -- 11:50 &nbsp;&nbsp;Long Talk &nbsp;&nbsp;&nbsp;&nbsp;Ming-Feng Ho &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;University of California, Riverside
-- 11:50 -- 12:05 &nbsp;&nbsp;Long Talk &nbsp;&nbsp;&nbsp;&nbsp;Sinan Deger &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Stockholm University
-- 12:05 -- 12:20 &nbsp;&nbsp;Long Talk &nbsp;&nbsp;&nbsp;&nbsp;Andrew Saydjari &nbsp;&nbsp;&nbsp;&nbsp;Harvard CFA
-- 12:20 -- 12:35 &nbsp;&nbsp;Long Talk &nbsp;&nbsp;&nbsp;&nbsp;William Davison &nbsp;&nbsp;&nbsp;&nbsp;Korea Astronomy and Space Science Institute
+- 10:35 -- 11:05 &nbsp;&nbsp;Invited Talk &nbsp;[Yuan-Sen Ting](https://www.mso.anu.edu.au/~yting/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Australian National University, Australia
+- 11:05 -- 11:20 &nbsp;&nbsp;Long Talk &nbsp;&nbsp;&nbsp;&nbsp;Parth Nayak &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;LMU Munich, Germany
+- 11:20 -- 11:35 &nbsp;&nbsp;Long Talk &nbsp;&nbsp;&nbsp;&nbsp;Alessia Longobardi &nbsp;Università Milano-Bicocca, Italy
+- 11:35 -- 11:50 &nbsp;&nbsp;Long Talk &nbsp;&nbsp;&nbsp;&nbsp;Ming-Feng Ho &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;UC Riverside, USA
+- 11:50 -- 12:05 &nbsp;&nbsp;Long Talk &nbsp;&nbsp;&nbsp;&nbsp;Sinan Deger &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Stockholm University, Sweden
+- 12:05 -- 12:20 &nbsp;&nbsp;Long Talk &nbsp;&nbsp;&nbsp;&nbsp;Andrew Saydjari &nbsp;&nbsp;&nbsp;&nbsp;Harvard CFA, USA
+- 12:20 -- 12:35 &nbsp;&nbsp;Long Talk &nbsp;&nbsp;&nbsp;&nbsp;William Davison &nbsp;&nbsp;&nbsp;&nbsp;Korea Astronomy and Space Science Institute, Korea
 
 ### Afternoon Session
-- 13:30 -- 14:00 &nbsp;&nbsp;Invited Talk &nbsp;[Emille Ishida](https://www.emilleishida.com) -- Laboratoire de Physique de Clermont
-- 14:00 -- 14:05 &nbsp;&nbsp;Short Talk &nbsp;&nbsp;&nbsp;Matthew Grayling -- University of Cambridge
-- 14:05 -- 14:10 &nbsp;&nbsp;Short Talk &nbsp;&nbsp;&nbsp;Robbie Webbe -- University of Bristol
-- 14:10 -- 14:15 &nbsp;&nbsp;Short Talk &nbsp;&nbsp;&nbsp;Becky Canning -- University of Portsmouth
-- 14:15 -- 14:30 &nbsp;&nbsp;Long Talk &nbsp;&nbsp;&nbsp;&nbsp;Daniel Mata Sanchez -- Instituto de Astrofisica de Canarias (IAC)
-- 14:30 -- 14:35 &nbsp;&nbsp;Short Talk &nbsp;&nbsp;&nbsp;John F.Suárez-Pérez -- Universidad de Los Andes
-- 14:35 -- 14:40 &nbsp;&nbsp;Short Talk &nbsp;&nbsp;&nbsp;Joseph Mwatukange -- University of Manchester
-- 14:40 -- 14:45 &nbsp;&nbsp;Short Talk &nbsp;&nbsp;&nbsp;Guillaume Guiglion -- Max-Planck-Institut für Astronomie
-- 14:45 -- 15:00 &nbsp;&nbsp;Long Talk &nbsp;&nbsp;&nbsp;&nbsp;Yan Yan -- Chinese Academy of Sciences
-- 15:00 -- 15:05 &nbsp;&nbsp;Short Talk &nbsp;&nbsp;&nbsp;Mikhail Denissenya -- Nazarbayev University
-- 15:05 -- 15:10 &nbsp;&nbsp;Short Talk &nbsp;&nbsp;&nbsp;Ignacio Ferreras -- University College London & IAC
-- 15:10 -- 15:25 &nbsp;&nbsp;Long Talk &nbsp;&nbsp;&nbsp;&nbsp;Collin Politsch -- University of Cambridge
+- 13:30 -- 14:00 &nbsp;&nbsp;Invited Talk &nbsp;[Emille Ishida](https://www.emilleishida.com) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Laboratoire de Physique de Clermont
+- 14:00 -- 14:05 &nbsp;&nbsp;Short Talk &nbsp;&nbsp;&nbsp;Matthew Grayling &nbsp;&nbsp;&nbsp;&nbsp;University of Cambridge
+- 14:05 -- 14:10 &nbsp;&nbsp;Short Talk &nbsp;&nbsp;&nbsp;Robbie Webbe &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;University of Bristol
+- 14:10 -- 14:15 &nbsp;&nbsp;Short Talk &nbsp;&nbsp;&nbsp;Becky Canning &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;University of Portsmouth
+- 14:15 -- 14:30 &nbsp;&nbsp;Long Talk &nbsp;&nbsp;&nbsp;&nbsp;Daniel Mata Sanchez &nbsp;&nbsp;Instituto de Astrofisica de Canarias (IAC)
+- 14:30 -- 14:35 &nbsp;&nbsp;Short Talk &nbsp;&nbsp;&nbsp;John F.Suárez-Pérez &nbsp;&nbsp;Universidad de Los Andes
+- 14:35 -- 14:40 &nbsp;&nbsp;Short Talk &nbsp;&nbsp;&nbsp;Joseph Mwatukange &nbsp;&nbsp;University of Manchester
+- 14:40 -- 14:45 &nbsp;&nbsp;Short Talk &nbsp;&nbsp;&nbsp;Guillaume Guiglion &nbsp;&nbsp;Max-Planck-Institut für Astronomie
+- 14:45 -- 15:00 &nbsp;&nbsp;Long Talk &nbsp;&nbsp;&nbsp;&nbsp;Yan Yan &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Chinese Academy of Sciences
+- 15:00 -- 15:05 &nbsp;&nbsp;Short Talk &nbsp;&nbsp;&nbsp;Mikhail Denissenya &nbsp;Nazarbayev University
+- 15:05 -- 15:10 &nbsp;&nbsp;Short Talk &nbsp;&nbsp;&nbsp;Ignacio Ferreras &nbsp;&nbsp;&nbsp;University College London & IAC
+- 15:10 -- 15:25 &nbsp;&nbsp;Long Talk &nbsp;&nbsp;&nbsp;&nbsp;Collin Politsch &nbsp;&nbsp;&nbsp;University of Cambridge
 - 15:25 -- 15:30 &nbsp;&nbsp;Summary
