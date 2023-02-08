@@ -16,10 +16,10 @@ Short Talk: **5 minutes** including Q&A
 ### Morning Session
 - 10:00 -- 10:05 &nbsp;&nbsp;Introduction
 - 10:35 -- 11:05 &nbsp;&nbsp;Invited Talk &nbsp;[Yuan-Sen Ting](https://www.mso.anu.edu.au/~yting/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Australian National University, Australia
-- 11:05 -- 11:20 &nbsp;&nbsp;Long Talk &nbsp;&nbsp;&nbsp;&nbsp;Parth Nayak &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;LMU Munich, Germany\
--- Deep learning with Lyman-α forest for inference in IGM astrophysics and cosmology
+- 11:05 -- 11:20 &nbsp;&nbsp;Long Talk &nbsp;&nbsp;&nbsp;&nbsp;Parth Nayak &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;LMU Munich, Germany
+  - Deep learning with Lyman-α forest for inference in IGM astrophysics and cosmology
 - 11:20 -- 11:35 &nbsp;&nbsp;Long Talk &nbsp;&nbsp;&nbsp;&nbsp;Alessia Longobardi &nbsp;&nbsp;Università Milano-Bicocca, Italy
--- Towards an automatic approach to modelling the circumgalactic medium: new tools for mock making and fitting of metal profiles in large surveys
+  - Towards an automatic approach to modelling the circumgalactic medium: new tools for mock making and fitting of metal profiles in large surveys
 - 11:35 -- 11:50 &nbsp;&nbsp;Long Talk &nbsp;&nbsp;&nbsp;&nbsp;Ming-Feng Ho &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;UC Riverside, USA
 - 11:50 -- 12:05 &nbsp;&nbsp;Long Talk &nbsp;&nbsp;&nbsp;&nbsp;Sinan Deger &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Stockholm University, Sweden
 - 12:05 -- 12:20 &nbsp;&nbsp;Long Talk &nbsp;&nbsp;&nbsp;&nbsp;Andrew Saydjari &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Harvard CFA, USA
