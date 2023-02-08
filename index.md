@@ -19,11 +19,15 @@ Short Talk: **5 minutes** including Q&A
 - 11:05 -- 11:20 &nbsp;&nbsp;Long Talk &nbsp;&nbsp;&nbsp;&nbsp;Parth Nayak &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;LMU Munich, Germany
   - Deep learning with Lyman-α forest for inference in IGM astrophysics and cosmology
 - 11:20 -- 11:35 &nbsp;&nbsp;Long Talk &nbsp;&nbsp;&nbsp;&nbsp;Alessia Longobardi &nbsp;&nbsp;Università Milano-Bicocca, Italy
-  - _Towards an automatic approach to modelling the circumgalactic medium: new tools for mock making and fitting of metal profiles in large surveys_
+  - Towards an automatic approach to modelling the circumgalactic medium: new tools for mock making and fitting of metal profiles in large surveys
 - 11:35 -- 11:50 &nbsp;&nbsp;Long Talk &nbsp;&nbsp;&nbsp;&nbsp;Ming-Feng Ho &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;UC Riverside, USA
+  - Automated detection of damped Lyman alpha absorbers using Bayesian models
 - 11:50 -- 12:05 &nbsp;&nbsp;Long Talk &nbsp;&nbsp;&nbsp;&nbsp;Sinan Deger &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Stockholm University, Sweden
+  - Inspecting Galaxy Spectra Information Content Through Representation Learning 
 - 12:05 -- 12:20 &nbsp;&nbsp;Long Talk &nbsp;&nbsp;&nbsp;&nbsp;Andrew Saydjari &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Harvard CFA, USA
+  - Measuring the 8623 Å Diffuse Interstellar Band in Gaia DR3 RVS Spectra: Obtaining a Clean Catalog by Marginalizing over Stellar Types
 - 12:20 -- 12:35 &nbsp;&nbsp;Long Talk &nbsp;&nbsp;&nbsp;&nbsp;William Davison &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;KASI, Korea
+  - Hunting for Transients using the Dark Energy Spectroscopic Instrument
 
 ### Afternoon Session
 - 13:30 -- 14:00 &nbsp;&nbsp;Invited Talk &nbsp;[Emille Ishida](https://www.emilleishida.com) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Laboratoire de Physique de Clermont, France
