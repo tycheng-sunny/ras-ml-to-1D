@@ -9,9 +9,9 @@
 
 # Timetable
 
-Invited Talk: **25 minutes** talk + 5 minutes Q&A\
-Long Talk: **12 minutes** talk + 3 minutes Q&A\
-Short Talk: **3 minutes** talk + 2 minutes Q&A
+Invited Talk: _25 minutes_ talk + _5 minutes_ Q&A\
+Long Talk: _12 minutes_ talk + _3 minutes_ Q&A\
+Short Talk: _3 minutes_ talk + _2 minutes_ Q&A
 
 ### Morning Session
 - 10:00 -- 10:05 &nbsp;&nbsp;Introduction
