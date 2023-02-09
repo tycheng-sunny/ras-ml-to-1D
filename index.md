@@ -11,7 +11,7 @@
 
 Invited Talk: &nbsp;_25 mins_ talk + _5 mins_ Q&A -- 30 mins\
 Long Talk: &nbsp;&nbsp;&nbsp;&nbsp;_12 mins_ talk + _3 mins_ Q&A -- 15 mins\
-Short Talk: &nbsp;&nbsp;&nbsp;_3 mins_ talk + _2 mins_ Q&A -- 5 mins
+Short Talk: &nbsp;&nbsp;&nbsp;&nbsp;_3 mins_ talk + _2 mins_ Q&A -- 5 mins
 
 ### Morning Session
 - 10:00 -- 10:05 &nbsp;&nbsp;Introduction
