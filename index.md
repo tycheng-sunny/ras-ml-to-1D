@@ -2,7 +2,7 @@
 
 - Hashtag: `#AstroML1D`
 - Date/Time: 10:30-15:30 Friday 10 March 2023
-- Format: Hybrid. Please join our slack channel for further discussion (link opens on 10 Feb).
+- Format: Hybrid. Please join our slack channel for further discussion (link opens in mid-Feb).
 - Venue: Burlington House, LONDON 
 - [RAS Event Website](https://ras.ac.uk/events-and-meetings/ras-meetings/harvesting-spectroscopic-and-time-series-data-machine-learning-and)
 - Registration on Eventbrite: will be open in mid-Feb by the RAS
