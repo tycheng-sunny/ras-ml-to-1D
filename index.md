@@ -6,7 +6,7 @@
 - Venue: The Geological Society, Piccadilly, LONDON, W1J 0BD
 - [RAS Event Website](https://ras.ac.uk/events-and-meetings/ras-meetings/harvesting-spectroscopic-and-time-series-data-machine-learning-and)
 - Registration Links:
-  - [Book a _Fellows_ In Person or Online SDM ticket](https://fellows.ras.ac.uk)
+  - [Book a _RAS Fellows_ In Person or Online SDM ticket (free)](https://fellows.ras.ac.uk)
   - [Book a _Non-Fellows_ **In Person** SDM Ticket (£15)](https://www.eventbrite.co.uk/e/ras-specialist-discussion-meeting-10-march-2023-nonfellows-in-person-ticket-tickets-545917864027)
   - [Book a _Non-Fellows_ **Online** SDM Ticket (£5)](https://www.eventbrite.co.uk/e/ras-specialist-discussion-meeting-10-march-2023-nonfellows-online-ticket-tickets-545973149387)
 
