@@ -5,7 +5,10 @@
 - Format: Hybrid. Please join our slack channel for further discussion (link opens in mid-Feb).
 - Venue: Burlington House, LONDON 
 - [RAS Event Website](https://ras.ac.uk/events-and-meetings/ras-meetings/harvesting-spectroscopic-and-time-series-data-machine-learning-and)
-- Registration on Eventbrite: will be open in mid-Feb by the RAS
+- Registration on Eventbrite:
+  - [Book a _Fellows_ In Person or Online SDM ticket](https://fellows.ras.ac.uk)
+  - [Book a _Non Fellows_ **In Person** SDM Ticket (£15)](https://www.eventbrite.co.uk/e/ras-specialist-discussion-meeting-10-march-2023-nonfellows-in-person-ticket-tickets-545917864027)
+  - [Book a _Non Fellows_ **Online** SDM Ticket (£5)](https://www.eventbrite.co.uk/e/ras-specialist-discussion-meeting-10-march-2023-nonfellows-online-ticket-tickets-545973149387)
 
 # Timetable
 
