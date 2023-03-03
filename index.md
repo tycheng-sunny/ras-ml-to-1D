@@ -17,7 +17,7 @@ Long Talk: &nbsp;&nbsp;&nbsp;&nbsp;_12 mins_ talk + _3 mins_ Q&A -- 15 mins\
 Short Talk: &nbsp;&nbsp;&nbsp;&nbsp;_3 mins_ talk + _2 mins_ Q&A -- 5 mins
 
 ### Morning Session
-- 10:00 -- 10:05 &nbsp;&nbsp;Introduction
+- 10:30 -- 10:35 &nbsp;&nbsp;Introduction
 - 10:35 -- 11:05 &nbsp;&nbsp;Invited Talk &nbsp;[Yuan-Sen Ting](https://www.mso.anu.edu.au/~yting/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Australian National University, Australia
 - 11:05 -- 11:20 &nbsp;&nbsp;Long Talk &nbsp;&nbsp;&nbsp;&nbsp;Parth Nayak &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;LMU Munich, Germany
   - `Deep learning with Lyman-α forest for inference in IGM astrophysics and cosmology`
