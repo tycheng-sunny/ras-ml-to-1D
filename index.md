@@ -19,6 +19,7 @@ Short Talk: &nbsp;&nbsp;&nbsp;&nbsp;_3 mins_ talk + _2 mins_ Q&A -- 5 mins
 ### Morning Session
 - 10:30 -- 10:35 &nbsp;&nbsp;Introduction
 - 10:35 -- 11:05 &nbsp;&nbsp;Invited Talk &nbsp;[Yuan-Sen Ting](https://www.mso.anu.edu.au/~yting/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Australian National University, Australia
+  - `Time series and spectroscopy of stars -- opportunities, caveats and challenges`
 - 11:05 -- 11:20 &nbsp;&nbsp;Long Talk &nbsp;&nbsp;&nbsp;&nbsp;Parth Nayak &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;LMU Munich, Germany
   - `Deep learning with Lyman-α forest for inference in IGM astrophysics and cosmology`
 - 11:20 -- 11:35 &nbsp;&nbsp;Long Talk &nbsp;&nbsp;&nbsp;&nbsp;Alessia Longobardi &nbsp;&nbsp;Università Milano-Bicocca, Italy
