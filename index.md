@@ -35,6 +35,7 @@ Short Talk: &nbsp;&nbsp;&nbsp;&nbsp;_3 mins_ talk + _2 mins_ Q&A -- 5 mins
 
 ### Afternoon Session
 - 13:30 -- 14:00 &nbsp;&nbsp;Invited Talk &nbsp;[Emille Ishida](https://www.emilleishida.com) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Laboratoire de Physique de Clermont, France
+  - `Enabling scientific discovery in the era of big data` 
 - 14:00 -- 14:05 &nbsp;&nbsp;Short Talk &nbsp;&nbsp;&nbsp;Matthew Grayling &nbsp;&nbsp;&nbsp;&nbsp;University of Cambridge, UK
   - `Augmenting supernova training sets using Generative Adversarial Networks` 
 - 14:05 -- 14:10 &nbsp;&nbsp;Short Talk &nbsp;&nbsp;&nbsp;Robbie Webbe &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;University of Bristol, UK
