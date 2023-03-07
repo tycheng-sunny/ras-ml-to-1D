@@ -46,16 +46,14 @@ Short Talk: &nbsp;&nbsp;&nbsp;&nbsp;_3 mins_ talk + _2 mins_ Q&A -- 5 mins
   - `Systematic detection of outflow features in the optical and near infrared spectra of accreting stellar-mass black holes`
 - 14:30 -- 14:35 &nbsp;&nbsp;Short Talk &nbsp;&nbsp;&nbsp;John F.Suárez-Pérez &nbsp;Universidad de Los Andes, Colombia
   - `Assessing the quality of massive spectroscopic surveys with unsupervised machine learning`
-- 14:35 -- 14:40 &nbsp;&nbsp;Short Talk &nbsp;&nbsp;&nbsp;Joseph Mwatukange &nbsp;&nbsp;&nbsp;University of Manchester, UK
-  - `Application of Machine Learning to Star Formation`
-- 14:40 -- 14:45 &nbsp;&nbsp;Short Talk &nbsp;&nbsp;&nbsp;Guillaume Guiglion &nbsp;&nbsp;Max-Planck-Institut für Astronomie, Germany
+- 14:35 -- 14:40 &nbsp;&nbsp;Short Talk &nbsp;&nbsp;&nbsp;Guillaume Guiglion &nbsp;&nbsp;Max-Planck-Institut für Astronomie, Germany
   - `Extracting the most from stellar spectra with Convolutional Neural-Networks`
-- 14:45 -- 15:00 &nbsp;&nbsp;Long Talk &nbsp;&nbsp;&nbsp;&nbsp;Yan Yan &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Chinese Academy of Sciences, China
+- 14:40 -- 14:55 &nbsp;&nbsp;Long Talk &nbsp;&nbsp;&nbsp;&nbsp;Yan Yan &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Chinese Academy of Sciences, China
   - `Explosions on other Suns`
-- 15:00 -- 15:05 &nbsp;&nbsp;Short Talk &nbsp;&nbsp;&nbsp;Mikhail Denissenya &nbsp;&nbsp;Nazarbayev University, Kazakhstan
+- 14:55 -- 15:00 &nbsp;&nbsp;Short Talk &nbsp;&nbsp;&nbsp;Mikhail Denissenya &nbsp;&nbsp;Nazarbayev University, Kazakhstan
   - `Resolving the unresolved: the deep learning way`
-- 15:05 -- 15:10 &nbsp;&nbsp;Short Talk &nbsp;&nbsp;&nbsp;Ignacio Ferreras &nbsp;&nbsp;&nbsp;&nbsp;UCL, UK & IAC, Spain
+- 15:00 -- 15:05 &nbsp;&nbsp;Short Talk &nbsp;&nbsp;&nbsp;Ignacio Ferreras &nbsp;&nbsp;&nbsp;&nbsp;UCL, UK & IAC, Spain
   - `The entropy of galaxy spectra`
-- 15:10 -- 15:25 &nbsp;&nbsp;Long Talk &nbsp;&nbsp;&nbsp;&nbsp;Collin Politsch &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;University of Cambridge, UK
+- 15:05 -- 15:20 &nbsp;&nbsp;Long Talk &nbsp;&nbsp;&nbsp;&nbsp;Collin Politsch &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;University of Cambridge, UK
   - `Trend Filtering: A Modern Statistical Tool for Time-Domain Astronomy and Astronomical Spectroscopy`
-- 15:25 -- 15:30 &nbsp;&nbsp;Summary
+- 15:20 -- 15:30 &nbsp;&nbsp;Summary
