@@ -34,14 +34,13 @@ Short Talk: &nbsp;&nbsp;&nbsp;&nbsp;_3 mins_ talk + _2 mins_ Q&A -- 5 mins
   - `Hunting for Transients using the Dark Energy Spectroscopic Instrument`
 
 ### Afternoon Session
-- 13:30 -- 14:00 &nbsp;&nbsp;Invited Talk &nbsp;[Emille Ishida](https://www.emilleishida.com) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Laboratoire de Physique de Clermont, France
+- 13:30 -- 13:35 &nbsp;&nbsp;Starting of Afternoon Session
+- 13:35 -- 14:05 &nbsp;&nbsp;Invited Talk &nbsp;[Emille Ishida](https://www.emilleishida.com) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Laboratoire de Physique de Clermont, France
   - `Enabling scientific discovery in the era of big data` 
-- 14:00 -- 14:05 &nbsp;&nbsp;Short Talk &nbsp;&nbsp;&nbsp;Matthew Grayling &nbsp;&nbsp;&nbsp;&nbsp;University of Cambridge, UK
+- 14:05 -- 14:10 &nbsp;&nbsp;Short Talk &nbsp;&nbsp;&nbsp;Matthew Grayling &nbsp;&nbsp;&nbsp;&nbsp;University of Cambridge, UK
   - `Augmenting supernova training sets using Generative Adversarial Networks` 
-- 14:05 -- 14:10 &nbsp;&nbsp;Short Talk &nbsp;&nbsp;&nbsp;Robbie Webbe &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;University of Bristol, UK
+- 14:10 -- 14:15 &nbsp;&nbsp;Short Talk &nbsp;&nbsp;&nbsp;Robbie Webbe &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;University of Bristol, UK
   - `Detection of Quasi-Periodic Eruptions in Extragalactic X-Ray Sources with Machine Learning`
-- 14:10 -- 14:15 &nbsp;&nbsp;Short Talk &nbsp;&nbsp;&nbsp;Becky Canning &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;University of Portsmouth, UK
-  - `Identifying super-massive black holes (SMBHs) with the Dark Energy Spectroscopic Instrument (DESI)`
 - 14:15 -- 14:30 &nbsp;&nbsp;Long Talk &nbsp;&nbsp;&nbsp;&nbsp;Daniel Mata Sanchez &nbsp;IAC, Spain
   - `Systematic detection of outflow features in the optical and near infrared spectra of accreting stellar-mass black holes`
 - 14:30 -- 14:35 &nbsp;&nbsp;Short Talk &nbsp;&nbsp;&nbsp;John F.Suárez-Pérez &nbsp;Universidad de Los Andes, Colombia
